@@ -9,15 +9,13 @@
 ## 2. 사용한 패턴
 
 > `patterns/bfs/BfsTemplate.kt`  
-> `patterns/graph/ShortestPath.kt`
+> `patterns/graph/ShortestPath.kt` 
 
 ---
 
 ## 3. 정리글 ✍️
 
-여기는 그냥 분석하는 글이다. 이렇게 이렇게 풀었다. 
-문제에서는 이렇게 주어졌으니까, 이런 이런 점을 유추할 수 있다.
-그러면 이렇게 가겠지. 그러니까 이렇게 하겠다. 
+아직 없음. 
 
 ---
 

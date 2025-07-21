@@ -12,7 +12,6 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/java/blocks/heap" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/java/blocks/recursion" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/java/blocks/stack_and_queue" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/main/java/blocks/string" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/java/blocks/tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/java/missions" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/java/missions/advanced_graph" isTestSource="false" />
@@ -43,6 +42,10 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/java/patterns/dynamic_programming" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/java/patterns/graph_traversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/java/patterns/string_hashing" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/blocks/datastructures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/blocks/exploration" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/blocks/io" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/blocks/operations" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

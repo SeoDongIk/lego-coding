@@ -1,4 +1,4 @@
-# 🧩 nqueen
+# 🧩 two sum
 
 ## 1. 사용한 블록
 
@@ -9,14 +9,13 @@
 ## 2. 사용한 패턴
 
 > `patterns/bfs/BfsTemplate.kt`  
-> `patterns/graph/ShortestPath.kt`
+> `patterns/graph/ShortestPath.kt` 
 
 ---
 
 ## 3. 정리글 ✍️
 
-여기는 그냥 분석하는 글이다. 이렇게 이렇게 풀었다.
-ㅇ그러면 이렇게 가겠지. 그러니까 이렇게 하겠다.
+
 
 ---
 

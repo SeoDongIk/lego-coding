@@ -1,4 +1,4 @@
-package combinations;
+package subsets;
 
 import java.util.List;
 

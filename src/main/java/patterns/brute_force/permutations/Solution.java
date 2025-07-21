@@ -3,19 +3,19 @@ package permutations;
 import java.util.List;
 
 public class Solution {
-
     public List<List<Integer>> permute(int[] nums) {
-        // TODO: 여기에 직접 외운 걸 써보자
+        // TODO: 순열을 구하는 메인 메서드 작성
         return null;
     }
 
     private void backtrack(List<Integer> curr, int[] nums, List<List<Integer>> ans) {
-        // TODO: 백트래킹 구조를 외워서 직접 써보자
+        // TODO: 백트래킹 로직 작성
     }
 }
 
 //region ✨
-
+// import java.util.ArrayList;
+// import java.util.List;
 //
 // public class Solution {
 //     public List<List<Integer>> permute(int[] nums) {
@@ -38,6 +38,4 @@ public class Solution {
 //         }
 //     }
 // }
-//
-
 //endregion
